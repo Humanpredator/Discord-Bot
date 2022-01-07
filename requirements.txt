@@ -1,5 +1,6 @@
-discord.py
-dotenv
-pathlib
+discord==1.7.3
+python-dotenv==0.19.2
+pathlib2==2.3.6
+pathlib==1.0.1
 psutil
 asyncio
